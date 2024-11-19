@@ -1,2 +1,2 @@
 # MultiNational-School-Network
-First Network Project
+DEPI First Network Project
